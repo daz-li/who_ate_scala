@@ -1,0 +1,17 @@
+*.class
+.DS_Store
+*.orig
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Build Directory #
+target/
+project/target/
+output/
+
+# docs
+junk.md
+spark.sh
